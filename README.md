@@ -1,3 +1,17 @@
+# Criando uma home com styled Components 
+
+- Uma lib para creiar interfaces UI 
+- JSX, Redux, SPA , MVC ...  
+- CSS e Javascript em um único arquivo 
+- React começa  no instagram e depois comprado no face 
+
+
+# Styled Components 
+
+- Lib para escrever códigos CSS dentro do JS 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
