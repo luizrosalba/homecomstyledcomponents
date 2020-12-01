@@ -9,6 +9,9 @@
 # Styled Components 
 
 - Lib para escrever códigos CSS dentro do JS 
+- npm i styled-components
+- garante a compatibilidade com todos os navegadores 
+
 
 
 
@@ -84,7 +87,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 
-- npm i styled-components
-garante a compatibilidade com todos os navegadores 
+
 
 
